@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Tech blog
 ---
 
+## Hi
+##### Glad u stoped by!
